@@ -1,0 +1,28 @@
+body {
+  background-color: rgb(56, 50, 50);
+  font: normal 16pt arial;
+}
+main {
+  background-color: white;
+  width: 500px;
+  margin: auto;
+  border-radius: 10px;
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.219);
+  padding: 15px;
+}
+a {
+  color: black;
+}
+a.code {
+  text-decoration: none;
+}
+h1 {
+  color: darkgoldenrod;
+  text-align: center;
+}
+h2 {
+  color: darkgoldenrod;
+}
+ul {
+  font-size: 12pt;
+}
